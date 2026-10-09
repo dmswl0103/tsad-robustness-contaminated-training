@@ -1,4 +1,3 @@
-```markdown
 # Robust Anomaly Detection
 
 train 데이터의 오염(contamination) 비율에 따라 비지도/반지도 시계열 이상 탐지 모델의
@@ -146,4 +145,3 @@ Track, 2024.
 [6] K. Obata, Y. Matsubara, and Y. Sakurai, "Robust and Explainable Detector
 of Time Series Anomaly via Augmenting Multiclass Pseudo-Anomalies," Proc.
 ACM SIGKDD Conf. on Knowledge Discovery and Data Mining (KDD), 2025.
-```
